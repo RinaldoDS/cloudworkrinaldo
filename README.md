@@ -36,6 +36,9 @@ Portifolio
 Main Projects:
 
 * **Análise Básica Fundamentalista de Ações com Python:** https://tinyurl.com/nhcr3jb2
+* **Projetos de Analista de Sistemas Senior(Testes de softaware propriedade industrial de criação):** Projeto1: • SIPAC – Registro Concedido N° do Pedido BR 51 2019
+001139-2, Link: https://agir.ufrn.br/vitrine/programas/1210 /  Projeto2: • SIGAA – Registro Concedido N° do Pedido BR 51 2019
+001328-0, Link: https://agir.ufrn.br/vitrine/programas/1222
 
 **under construction stay tuned**
 
