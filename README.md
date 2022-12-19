@@ -13,6 +13,18 @@ Portifolio
 </p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My credentials include a Bachelor's Degree in Information Systems and a Graduate Program in Computer Networks at Centro Universitário do Rio Grande do Norte (UNI-RN), as well as specialization courses in Data Science - (SIGMOIDAL), Project Management - Universidade Federal District of Rio Grande do Norte (UFRN), Information Security - Brasilia Computing Center of the Air Force (CCA-BR) and Contract Management by the Aeronautical Logistics Institute (ILA).
+ </p>
+ 
+ <p> Main Skills:
+
+- Management of Government Contracts;
+- IT manager;
+- IT Team Coordinator;
+- Elaboration of IT Projects (wifi networks, WAN, MAM, INTRANET, optical cambering and CCTV);
+- Requirements Analyst;
+- Management of Network Assets (Switch and Linux Servers, LDAP);
+- Software Test with (Cucumber, selenium and java);
+- Automation of Repetitive Processes - RPA (Python, PyAutoGUI, Splinter, Scrapy and Robot);
 </p>
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
